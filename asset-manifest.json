@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/devDevanshu/static/css/main.4a3510fd.css",
+    "main.js": "/devDevanshu/static/js/main.0ebac37d.js",
+    "static/js/787.1f11dfe9.chunk.js": "/devDevanshu/static/js/787.1f11dfe9.chunk.js",
+    "static/media/gallery.png": "/devDevanshu/static/media/gallery.0dba7fdae733f021779d.png",
+    "static/media/movie.png": "/devDevanshu/static/media/movie.d8441724a1d4708049f6.png",
+    "static/media/about.jpeg": "/devDevanshu/static/media/about.080c18d6999333d1591a.jpeg",
+    "static/media/portfiliotemp.png": "/devDevanshu/static/media/portfiliotemp.ddbc20c341326032783b.png",
+    "static/media/onlineShop.png": "/devDevanshu/static/media/onlineShop.023024bd150ac306bcdf.png",
+    "static/media/blog.png": "/devDevanshu/static/media/blog.f840949d20ee989ac96b.png",
+    "static/media/textutils.png": "/devDevanshu/static/media/textutils.be66290181e6dbd1d4f9.png",
+    "static/media/ticktaktoe.png": "/devDevanshu/static/media/ticktaktoe.61575d650e6a27196bda.png",
+    "static/media/todolist.png": "/devDevanshu/static/media/todolist.2580c86b0fe55e7ad4c9.png",
+    "static/media/snakegame.png": "/devDevanshu/static/media/snakegame.92d9b837eaec4f7eb74b.png",
+    "index.html": "/devDevanshu/index.html",
+    "main.4a3510fd.css.map": "/devDevanshu/static/css/main.4a3510fd.css.map",
+    "main.0ebac37d.js.map": "/devDevanshu/static/js/main.0ebac37d.js.map",
+    "787.1f11dfe9.chunk.js.map": "/devDevanshu/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a3510fd.css",
+    "static/js/main.0ebac37d.js"
+  ]
+}
