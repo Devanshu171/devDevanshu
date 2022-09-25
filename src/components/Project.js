@@ -42,6 +42,20 @@ const projects = [
     githubLink: "https://github.com/Devanshu171/Snake-Game",
   },
   {
+    photo: ticktaktoe,
+    title: "TickTakToe",
+    des: "TickTakToe game with bueatiful UI. You can play with your friend. made with HTML, CSS, JavaScript",
+    liveLink: "devanshu171.github.io/tictactoe/",
+    githubLink: "https://github.com/Devanshu171/TicTacToe",
+  },
+  {
+    photo: gallery,
+    title: "Image Gallery",
+    des: "Image Gallery app where you can View, upload and Delete  Your Fav Images. TechStack Used HTML, CSS, JavaScript,Nodejs , multter middleware for file handling and mongoDb database ",
+    liveLink: "",
+    githubLink: "https://github.com/Devanshu171/Image-Gallery",
+  },
+  {
     photo: portfiliotemp,
     title: "Portfolio Template",
     des: "Responsive Portfolio Template for Your new Portfolio. Made with pure HTML and CSS",
@@ -61,20 +75,6 @@ const projects = [
     des: "Blog app which Provies features like ADD  ,DELETE and EDIT  post. Techstack used HTML, CSS, JavaScript, Nodejs ,ejs and MongoDb database",
     liveLink: "",
     githubLink: "https://github.com/Devanshu171/Blog",
-  },
-  {
-    photo: ticktaktoe,
-    title: "TickTakToe",
-    des: "TickTakToe game with bueatiful UI. You can play with your friend. made with HTML, CSS, JavaScript",
-    liveLink: "devanshu171.github.io/tictactoe/",
-    githubLink: "https://github.com/Devanshu171/TicTacToe",
-  },
-  {
-    photo: gallery,
-    title: "Image Gallery",
-    des: "Image Gallery app where you can View, upload and Delete  Your Fav Images. TechStack Used HTML, CSS, JavaScript,Nodejs , multter middleware for file handling and mongoDb database ",
-    liveLink: "",
-    githubLink: "https://github.com/Devanshu171/Image-Gallery",
   },
 ];
 export default function Project() {
