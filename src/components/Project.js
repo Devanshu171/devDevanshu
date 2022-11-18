@@ -12,13 +12,28 @@ import gallery from "../images/gallery.png";
 import ticktaktoe from "../images/ticktaktoe.png";
 import todolist from "../images/todolist.png";
 import ProjectItem from "./ProjectItem";
+import ESkill from "../images/ESkill.png";
 const projects = [
+  {
+    photo: ESkill,
+    title: "ESkill",
+    des: "A Mern stack app . Where user Can read about their fav technologies search them using Categories . Authour And admin can post tutorials using feature rich text editor . ",
+    liveLink: "https://client-pi-sandy.vercel.app/",
+    githubLink: "https://github.com/Devanshu171/ESkill",
+  },
   {
     photo: onlineShop,
     title: "Online Shop",
     des: "An Online Shopping app. Techstack used HTML, css, js,MongoDb and NodeJs. With features like authentication, authorization, saving product in  cart without logging in with the help of sessions and cookies, Different dashboard for Admin etc.",
     liveLink: "#",
     githubLink: "https://github.com/Devanshu171/Online-Shop",
+  },
+  {
+    photo: blog,
+    title: "Blog",
+    des: "Blog app which Provies features like ADD  ,DELETE and EDIT  post. Techstack used HTML, CSS, JavaScript, Nodejs ,ejs and MongoDb database",
+    liveLink: "",
+    githubLink: "https://github.com/Devanshu171/Blog",
   },
   {
     photo: movie,
@@ -69,13 +84,6 @@ const projects = [
     liveLink: "devanshu171.github.io/todolist/",
     githubLink: "https://github.com/Devanshu171/TodoList",
   },
-  {
-    photo: blog,
-    title: "Blog",
-    des: "Blog app which Provies features like ADD  ,DELETE and EDIT  post. Techstack used HTML, CSS, JavaScript, Nodejs ,ejs and MongoDb database",
-    liveLink: "",
-    githubLink: "https://github.com/Devanshu171/Blog",
-  },
 ];
 export default function Project() {
   const [items, setItems] = useState([]);
@@ -109,7 +117,6 @@ export default function Project() {
         </div>
         <div className="showbtn">
           <button onClick={showMoreItems}>Load More </button>
-          <button onClick={showLessItems}>show Less</button>
         </div>
       </div>
     </div>
