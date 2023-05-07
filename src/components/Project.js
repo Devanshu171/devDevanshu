@@ -17,7 +17,7 @@ const projects = [
   {
     photo: ESkill,
     title: "ESkill",
-    des: "ESKILL is a web application that provides tutorials posted by authors to help users learn about their preferred technology. The platform offers a media library, a rich markdown editor with 15+ options like code blocks, images, and tables to create posts. The platform has a role-based dashboard for Admin, Author, and Subscriber, each with CRUD operations according to their role. Additionally, users can post comments, share posts on social media, and filter posts through categories. The project was developed using Next.js, Node.js, Express.js, MongoDb, Ant Design, JSON Web Token (JWT), Bcrypt, and SendGrid.",
+    des: "ESKILL is a web application that provides tutorials posted by authors to help users learn about their preferred technology. The platform offers a media library, a comment system, posts filtering system, a rich markdown editor, a role-based dashboard.Techstack : Next.js, Node.js, Express.js, MongoDb, Ant Design.",
     liveLink: "https://client-pi-sandy.vercel.app/",
     githubLink: "https://github.com/Devanshu171/ESkill",
   },
