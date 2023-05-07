@@ -50,10 +50,10 @@ function About() {
                 <strong>Profile:</strong> Student, Full Stack Developer
               </p>
               <p>
-                <strong>Email:</strong> abhisim0098@gmail.com
+                <strong>Email:</strong> idevanshu17@gmail.com
               </p>
               <p>
-                <strong>Phone:</strong> 6284048066
+                <strong>Phone:</strong> 
               </p>
             </div>
           </div>
