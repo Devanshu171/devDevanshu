@@ -18,15 +18,15 @@ export default function Getintouch() {
               <p>You can connect with me on Social Media</p>
               <div className="c_info">
                 <i className="fas fa-map-marker-alt">
-                  <span>MOHALI, PUNJAB, INDIA</span>
+                  <span> PUNJAB, INDIA</span>
                 </i>
 
                 <i className="fas fa-phone">
-                  <span>6284048066</span>
+                  <span></span>
                 </i>
 
                 <i className="fas fa-envelope-open">
-                  <span>abhisim0098@gmail.com</span>
+                  <span>idevanshu17.com</span>
                 </i>
               </div>
               <div className="smedia">
@@ -40,7 +40,7 @@ export default function Getintouch() {
                   <i className="fa fa-github"></i>
                 </a>
                 <a
-                  href="https://www.instagram.com/___devanshu.171/"
+                  href=""
                   target="_blank"
                 >
                   <i className="fa fa-instagram"></i>
