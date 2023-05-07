@@ -17,14 +17,14 @@ const projects = [
   {
     photo: ESkill,
     title: "ESkill",
-    des: "ESKILL is a web application that provides tutorials posted by authors to help users learn about their preferred technology. The platform offers a media library, a comment system, posts filtering system, a rich markdown editor, a role-based dashboard.Techstack : Next.js, Node.js, Express.js, MongoDb, Ant Design.",
+    des: "ESKILL provides tutorials posted by authors to help users learn about their preferred technology. The platform offers a media library, comment system, posts filtering system, a rich markdown editor, a role-based dashboard.Techstack : Next.js, Node.js, Express.js, MongoDb, Ant Design.",
     liveLink: "https://client-pi-sandy.vercel.app/",
     githubLink: "https://github.com/Devanshu171/ESkill",
   },
   {
     photo: onlineShop,
     title: "Online Shop",
-    des: "ONLINE SHOP is an e-commerce application where users can create an account and place orders. The platform integrates a payment gateway using Stripe and implements a shopping cart using JavaScript cookie. The project was developed using Ejs, Css, JavaScript, Node.js, Express.js, MongoDb, and the MVC architectural pattern.",
+    des: "ONLINE SHOP is an e-commerce application where users can create an account and place orders. The platform integrates a payment gateway using Stripe and implements a shopping cart using JavaScript cookie. Techstack :  Ejs, Css, JavaScript, Node.js, Express.js, MongoDb.",
     liveLink: "#",
     githubLink: "https://github.com/Devanshu171/Online-Shop",
   },
